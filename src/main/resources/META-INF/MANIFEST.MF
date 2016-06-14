@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: su90.etl.controller.MainEntry
+
